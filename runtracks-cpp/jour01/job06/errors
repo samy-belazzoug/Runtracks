@@ -1,0 +1,8 @@
+      /usr/bin/ld: /tmp/ccvz5gZn.o: warning: relocation against `_ZSt4cout' in read-only section `.text'
+      /usr/bin/ld: /tmp/ccvz5gZn.o: in function `main':
+      job06.cpp:(.text+0x63): undefined reference to `std::cout'
+      /usr/bin/ld: job06.cpp:(.text+0x6b): undefined reference to `std::basic_ostream<char, std::char_traits<char> >& std::operator<< <std::char_traits<char> >(std::basic_ostream<char, std::char_traits<char> >&, char const*)'
+      /usr/bin/ld: warning: creating DT_TEXTREL in a PIE
+      collect2: error: ld returned 1 exit status
+So for 30 minutes I've blocked COMPLETELY in this error BECAUSE I USED GCC INSTEAD OF G++ TO COMPILE
+NAH im stupid mate, thats it, im done xD
