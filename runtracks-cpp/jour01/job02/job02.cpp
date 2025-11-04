@@ -1,0 +1,14 @@
+#include <iostream>
+using namespace std;
+
+int multiplication(int a, int b);
+
+int main() {
+    int c = multiplication(5,3);
+    cout << "Resultat : " << c << "\n";
+    return 0;
+}
+
+int multiplication(int a, int b) {
+    return a * b;
+}
