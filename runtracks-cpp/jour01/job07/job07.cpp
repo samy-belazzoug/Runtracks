@@ -4,6 +4,10 @@ using namespace std;
 
 int inversion(int a); 
 
+int main() {
+    return 0;
+}
+
 int inversion(int a) {
     string a_s = to_string(a);
     int length = a_s.length();
