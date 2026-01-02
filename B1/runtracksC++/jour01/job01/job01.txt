@@ -1,0 +1,7 @@
+VARIABLE, TYPE, VALUE
+c, char, 1
+p, short int, 10
+x, short int, 13
+y, char, 2
+z, char, 11
+w, short int, 35
