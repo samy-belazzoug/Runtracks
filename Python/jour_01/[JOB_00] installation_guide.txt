@@ -1,0 +1,10 @@
+Pour installer Python (et réussir le job 00), il faut :
+Windows : 
+-Télécharger Python : https://www.python.org/downloads/
+-Installer Python en lancant python-manager-xx.y.msix
+
+Note : Python est pré-installé sur la plupart des distributions Linux/Unix ou même MacOS
+
+Pour vérifier l'installation de Python, il faut :
+-Executer un terminal
+-Lancer la commande "python --version" dans le terminal.
